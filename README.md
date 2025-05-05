@@ -3,7 +3,6 @@
 ## **Overview**  
 A Power BI dashboard analyzing historical space mission data, including success rates, costs, and trends by company, country, and rocket type.  
 
----
 
 ## **Data Sources**  
 - **Original Data:** Contains mission records with:  
